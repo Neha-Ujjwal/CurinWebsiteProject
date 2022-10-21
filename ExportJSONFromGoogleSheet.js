@@ -281,3 +281,6 @@ function arrayTranspose_(data) {
 
   return ret;
 }
+
+
+//wrote this in app script after that export json button will appear in the nav bar.
